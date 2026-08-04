@@ -1,0 +1,14 @@
+/output/
+
+/.vscode/
+
+# Ignore executable files
+*.exe
+*.txt
+
+# Ignore build output folder
+output/
+
+# Ignore object files
+*.o
+*.obj
